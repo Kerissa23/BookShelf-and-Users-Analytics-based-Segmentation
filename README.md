@@ -17,6 +17,9 @@ This project focuses on segmenting customers of an online bookstore using machin
 - Visualization Tools: Plotly Dash
 - Deployment Environment: Localhost
 
+# Web Page for Recommending books 📸
+<img src="Users_Dashboard.jpg" width="400" />
+
 # Users Segmentation Dashboard 📸
 <img src="Users_Dashboard.jpg" width="400" />
 
