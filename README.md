@@ -14,8 +14,11 @@ This project focuses on segmenting customers of an online bookstore using machin
 - Visualization Tools: Plotly Dash
 - Deployment Environment: Localhost
 
-# User Segmentation Dashboard 📸
-![Customer Segmentation]()
+# Users Segmentation Dashboard 📸
+![Book Authors Segmentation Acoording to Rating of Users Segmentation](Book_Author_Segmentation.jpg)
+
+# Book Authors Segmentation Dashboard 📸
+![Book Authors Segmentation Acoording to Rating of Users Segmentation](Book_Author_Segmentation.jpg)
 
 
 # Data Pipeline
