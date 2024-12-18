@@ -15,10 +15,10 @@ This project focuses on segmenting customers of an online bookstore using machin
 - Deployment Environment: Localhost
 
 # Users Segmentation Dashboard 📸
-<img src="Users_Dashboard.jpg" width="300" />
+<img src="Users_Dashboard.jpg" width="400" />
 
 # Book Authors Segmentation Dashboard 📸
-<img src="Book_Author_Segmentation.jpg" width="300" />
+<img src="Book_Author_Segmentation.jpg" width="400" />
 
 # Data Pipeline
 - Data Preprocessing:
