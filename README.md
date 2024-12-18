@@ -23,11 +23,11 @@ This project focuses on segmenting customers of an online bookstore using machin
     <img src="recommended.jpg" alt="Screenshot 2" width="300" />
 </div>
 
-# Users Segmentation Dashboard 📸
-<img src="Users_Dashboard.jpg" width="400" />
-
-# Book Authors Segmentation Dashboard 📸
-<img src="Book_Author_Segmentation.jpg" width="400" />
+# Segmentation Dashboards on the basis of Users and Book Authors according to Ratings 📸
+<div style="display: flex; justify-content: space-around;">
+    <img src="Users_Dashboard.jpg" alt="Screenshot 3" width="300" />
+    <img src="Book_Author_Segmentation.jpg" alt="Screenshot 4" width="300" />
+</div>
 
 # Data Pipeline 🧑‍💻
 ### Data Preprocessing:
