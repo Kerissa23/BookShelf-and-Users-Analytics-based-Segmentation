@@ -20,7 +20,7 @@ This project focuses on segmenting customers of an online bookstore using machin
 # Web Page for Recommending books 📸
 <div style="display: flex; justify-content: space-around;">
     <img src="bookstore_.jpg" alt="Screenshot 1" width="400" />
-    <img src="path_to_your_screenshot3.png" alt="Screenshot 2" width="400" />
+    <img src="recommended.jpg" alt="Screenshot 2" width="400" />
 </div>
 # Users Segmentation Dashboard 📸
 <img src="Users_Dashboard.jpg" width="400" />
